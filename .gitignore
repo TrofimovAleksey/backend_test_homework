@@ -3,6 +3,12 @@ README.md
 
 .DS_Store
 
+.idea/
+
+__pycache__/
+
+venv/
+
 # игнорировать файл side.txt в директории build
 build/side.txt
 
