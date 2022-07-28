@@ -9,6 +9,8 @@ __pycache__/
 
 venv/
 
+.vscode/
+
 # игнорировать файл side.txt в директории build
 build/side.txt
 
